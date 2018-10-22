@@ -5,11 +5,6 @@
 	"Description": "",
 	"Plugins": [
 		{
-			"Name": "UINavigation",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/4601ff4d12fc4ed1a7418e1585374a48"
-		},
-		{
 			"Name": "MidiAsset",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/aff69119f95d405abbab38236e258c2e"
